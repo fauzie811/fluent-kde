@@ -1,0 +1,2 @@
+
+INSTALL(FILES Fluent.qtcurve DESTINATION ${DATA_INSTALL_DIR}/QtCurve/)

@@ -1,0 +1,15 @@
+{
+    "KPlugin": {
+        "Description": "Window decoration using the Fluent visual style for the Plasma Desktop",
+        "EnabledByDefault": true,
+        "Id": "com.github.fauzie811.fluent",
+        "Name": "Fluent",
+        "ServiceTypes": [
+            "org.kde.kdecoration2"
+        ]
+    },
+    "org.kde.kdecoration2": {
+        "blur": false,
+        "kcmodule": true
+    }
+}

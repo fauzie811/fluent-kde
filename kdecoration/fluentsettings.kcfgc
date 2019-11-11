@@ -1,0 +1,6 @@
+File=fluentsettingsdata.kcfg
+ClassName=InternalSettings
+NameSpace=Fluent
+Singleton=false
+Mutators=true
+GlobalEnums=true

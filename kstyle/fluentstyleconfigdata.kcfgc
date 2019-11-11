@@ -1,0 +1,6 @@
+File=fluent.kcfg
+ClassName=StyleConfigData
+NameSpace=Fluent
+Singleton=true
+Mutators=true
+GlobalEnums=true
