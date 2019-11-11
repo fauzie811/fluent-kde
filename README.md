@@ -4,6 +4,8 @@
 
 **CAUTION:** It's still in a very early stage.
 
+To get rounded corners on all corners, use the [KDE-Rounded-Corners](https://github.com/n4n0GH/KDE-Rounded-Corners) KWin script. I'm planning to include it into the project later.
+
 ## Screenshots
 
 Current state:
