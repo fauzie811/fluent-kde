@@ -12,6 +12,8 @@ Current state:
 
 ![Demo](screenshots/demo.png)
 
+![Window Decoration](screenshots/decoration.png)
+
 ## How to compile
 
 The project uses the standard CMake buildsystem.
