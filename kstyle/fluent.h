@@ -68,8 +68,8 @@ namespace Fluent
         // menu items
         Menu_MarginHeight = 4,
         Menu_FrameWidth = 0,
-        MenuItem_MarginWidth = 5,
-        MenuItem_MarginHeight = 4,
+        MenuItem_MarginWidth = 6,
+        MenuItem_MarginHeight = 6,
         MenuItem_ItemSpacing = 4,
         MenuItem_AcceleratorSpace = 16,
         MenuButton_IndicatorWidth = 20,

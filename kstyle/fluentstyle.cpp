@@ -4740,7 +4740,6 @@ namespace Fluent
             {
 
                 const auto color( _helper->separatorColor( palette ) );
-                rect.adjust( Metrics::MenuItem_MarginWidth*2, 0, -(Metrics::MenuItem_MarginWidth*2), 0 );
                 _helper->renderSeparator( painter, rect, color );
                 return true;
 
@@ -4770,7 +4769,7 @@ namespace Fluent
         if( selected || sunken )
         {
 
-            const auto color = _helper->focusColor( palette );
+            const auto color = _helper->hoverColor( palette );
             // const auto outlineColor = _helper->focusOutlineColor( palette );
             const auto outlineColor = palette.color( QPalette::Window );
 
